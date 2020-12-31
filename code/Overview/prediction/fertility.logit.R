@@ -1,4 +1,4 @@
-setwd('~/Desktop/OReillyHealthcareData/code/Overview/prediction')
+setwd('~/projects/OReillyHealthcareData/code/Overview/prediction')
 
 require(data.table)
 

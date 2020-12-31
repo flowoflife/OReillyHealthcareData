@@ -1,4 +1,4 @@
-setwd('~/Desktop/OReillyHealthcareData/code/Overview/record_linkage/')
+setwd('~/projects/OReillyHealthcareData/code/Overview/record_linkage/')
 
 # DATA PREP
 
